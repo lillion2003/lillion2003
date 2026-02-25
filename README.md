@@ -5,7 +5,12 @@
 Senior-year **Statistics** undergraduate
 
 ---
+## Certification
 
+🔗 [LinkedIn](https://[www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ratchapol-samalee-b48612388/)) 
+<a href="https://www.linkedin.com/in/yourusername">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15"/>
+</a>
 ## Projects
 
 ### Data Analysis
